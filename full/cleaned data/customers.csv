@@ -1,0 +1,123 @@
+customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit
+103,"Atelier graphique",Schmitt,"Carine ",040-322-2555,"54, rue Royale",Unknown,Nantes,Unknown,44000,France,1370,21000.00
+112,"Signal Gift Stores",King,Jean,702-555-1838,"8489 Strong St.",Unknown,"Las Vegas",NV,83030,USA,1166,71800.00
+114,"Australian Collectors, Co.",Ferguson,Peter,039-520-4555,"636 St Kilda Road","Level 3",Melbourne,Victoria,3004,Australia,1611,117300.00
+119,"La Rochelle Gifts",Labrune,"Janine ",040-678-8555,"67, rue des Cinquante Otages",Unknown,Nantes,Unknown,44000,France,1370,118200.00
+121,"Baane Mini Imports",Bergulfsen,"Jonas ",007-989-9555,"Erling Skakkes gate 78",Unknown,Stavern,Unknown,4110,Norway,1504,81700.00
+124,"Mini Gifts Distributors Ltd.",Nelson,Susan,415-555-1450,"5677 Strong St.",Unknown,"San Rafael",CA,97562,USA,1165,210500.00
+125,"Havel & Zbyszek Co",Piestrzeniewicz,"Zbyszek ",266-427-7555,"ul. Filtrowa 68",Unknown,Warszawa,Unknown,01-012,Poland,NULL,0.00
+128,"Blauer See Auto, Co.",Keitel,Roland,496-966-902555,"Lyonerstr. 34",Unknown,Frankfurt,Unknown,60528,Germany,1504,59700.00
+129,"Mini Wheels Co.",Murphy,Julie,650-555-5787,"5557 North Pendale Street",Unknown,"San Francisco",CA,94217,USA,1165,64600.00
+131,"Land of Toys Inc.",Lee,Kwai,212-555-7818,"897 Long Airport Avenue",Unknown,NYC,NY,10022,USA,1323,114900.00
+141,"Euro+ Shopping Channel",Freyre,"Diego ",915-559-9444,"C/ Moralzarzal, 86",Unknown,Madrid,Unknown,28034,Spain,1370,227600.00
+144,"Volvo Model Replicas, Co",Berglund,"Christina ",092-112-3555,"Berguvsvägen  8",Unknown,Luleå,Unknown,"S-958 22",Sweden,1504,53100.00
+145,"Danish Wholesale Imports",Petersen,"Jytte ",031-123-3555,"Vinbæltet 34",Unknown,Kobenhavn,Unknown,1734,Denmark,1401,83400.00
+146,"Saveley & Henriot, Co.",Saveley,"Mary ",078-325-5555,"2, rue du Commerce",Unknown,Lyon,Unknown,69004,France,1337,123900.00
+148,"Dragon Souveniers, Ltd.",Natividad,Eric,652-217-7555,"Bronz Sok.","Bronz Apt. 3/6 Tesvikiye",Singapore,Unknown,079903,Singapore,1621,103800.00
+151,"Muscle Machine Inc",Young,Jeff,212-555-7413,"4092 Furth Circle","Suite 400",NYC,NY,10022,USA,1286,138500.00
+157,"Diecast Classics Inc.",Leong,Kelvin,215-555-1555,"7586 Pompton St.",Unknown,Allentown,PA,70267,USA,1216,100600.00
+161,"Technics Stores Inc.",Hashimoto,Juri,650-555-6809,"9408 Furth Circle",Unknown,Burlingame,CA,94217,USA,1165,84600.00
+166,"Handji Gifts& Co",Victorino,Wendy,652-241-1555,"106 Linden Road Sandown","2nd Floor",Singapore,Unknown,069045,Singapore,1612,97900.00
+167,"Herkku Gifts",Oeztan,Veysel,472-267-3215,"Brehmen St. 121","PR 334 Sentrum",Bergen,Unknown,"N 5804","Norway  ",1504,96800.00
+168,"American Souvenirs Inc",Franco,Keith,203-555-7845,"149 Spinnaker Dr.","Suite 101","New Haven",CT,97823,USA,1286,0.00
+169,"Porto Imports Co.","de Castro","Isabel ",013-565-5555,"Estrada da saúde n. 58",Unknown,Lisboa,Unknown,1756,Portugal,NULL,0.00
+171,"Daedalus Designs Imports",Rancé,"Martine ",020-161-1555,"184, chaussée de Tournai",Unknown,Lille,Unknown,59000,France,1370,82900.00
+172,"La Corne D'abondance, Co.",Bertrand,Marie,142-342-2555,"265, boulevard Charonne",Unknown,Paris,Unknown,75012,France,1337,84300.00
+173,"Cambridge Collectables Co.",Tseng,Jerry,617-555-5555,"4658 Baden Av.",Unknown,Cambridge,MA,51247,USA,1188,43400.00
+175,"Gift Depot Inc.",King,Julie,203-555-2570,"25593 South Bay Ln.",Unknown,Bridgewater,CT,97562,USA,1323,84300.00
+177,"Osaka Souveniers Co.",Kentary,Mory,810-663-425555,"1-6-20 Dojima",Unknown,Kita-ku,Osaka," 530-0003",Japan,1621,81200.00
+181,"Vitachrome Inc.",Frick,Michael,212-555-1500,"2678 Kingston Rd.","Suite 101",NYC,NY,10022,USA,1286,76400.00
+186,"Toys of Finland, Co.",Karttunen,Matti,902-248-8555,"Keskuskatu 45",Unknown,Helsinki,Unknown,21240,Finland,1501,96500.00
+187,"AV Stores, Co.",Ashworth,Rachel,171-555-1555,"Fauntleroy Circus",Unknown,Manchester,Unknown,"EC2 5NT",UK,1501,136800.00
+189,"Clover Collections, Co.",Cassidy,Dean,353-186-21555,"25 Maiden Lane","Floor No. 4",Dublin,Unknown,2,Ireland,1504,69400.00
+198,"Auto-Moto Classics Inc.",Taylor,Leslie,617-555-8428,"16780 Pompton St.",Unknown,Brickhaven,MA,58339,USA,1216,23000.00
+201,"UK Collectables, Ltd.",Devon,Elizabeth,171-555-2282,"12, Berkeley Gardens Blvd",Unknown,Liverpool,Unknown,"WX1 6LT",UK,1501,92700.00
+202,"Canadian Gift Exchange Network",Tamuri,"Yoshi ",604-555-3392,"1900 Oak St.",Unknown,Vancouver,BC,"V3F 2K1",Canada,1323,90300.00
+204,"Online Mini Collectables",Barajas,Miguel,617-555-7555,"7635 Spinnaker Dr.",Unknown,Brickhaven,MA,58339,USA,1188,68700.00
+205,Toys4GrownUps.com,Young,Julie,626-555-7265,"78934 Hillside Dr.",Unknown,Pasadena,CA,90003,USA,1166,90700.00
+206,"Asian Shopping Network, Co",Walker,Brydey,612-941-11555,"Suntec Tower Three","8 Temasek",Singapore,Unknown,038988,Singapore,NULL,0.00
+209,"Mini Caravy",Citeaux,"Frédérique ",088-601-1555,"24, place Kléber",Unknown,Strasbourg,Unknown,67000,France,1370,53800.00
+211,"King Kong Collectables, Co.",Gao,Mike,852-225-11555,"Bank of China Tower","1 Garden Road","Central Hong Kong",Unknown,NULL,"Hong Kong",1621,58600.00
+216,"Enaco Distributors",Saavedra,"Eduardo ",932-034-4555,"Rambla de Cataluña, 23",Unknown,Barcelona,Unknown,08022,Spain,1702,60300.00
+219,"Boards & Toys Co.",Young,Mary,310-555-2373,"4097 Douglas Av.",Unknown,Glendale,CA,92561,USA,1166,11000.00
+223,"Natürlich Autos",Kloss,"Horst ",037-255-5188,"Taucherstraße 10",Unknown,Cunewalde,Unknown,01307,Germany,NULL,0.00
+227,"Heintze Collectables",Ibsen,Palle,086-213-3555,"Smagsloget 45",Unknown,Århus,Unknown,8200,Denmark,1401,120800.00
+233,"Québec Home Shopping Network",Fresnière,"Jean ",514-555-8054,"43 rue St. Laurent",Unknown,Montréal,Québec,"H1J 1C3",Canada,1286,48700.00
+237,"ANG Resellers",Camino,"Alejandra ",917-456-6555,"Gran Vía, 1",Unknown,Madrid,Unknown,28001,Spain,NULL,0.00
+239,"Collectable Mini Designs Co.",Thompson,Valarie,760-555-8146,"361 Furth Circle",Unknown,"San Diego",CA,91217,USA,1166,105000.00
+240,giftsbymail.co.uk,Bennett,"Helen ",198-555-8888,"Garden House","Crowther Way 23",Cowes,"Isle of Wight","PO31 7PJ",UK,1501,93900.00
+242,"Alpha Cognac",Roulet,"Annette ",061-776-6555,"1 rue Alsace-Lorraine",Unknown,Toulouse,Unknown,31000,France,1370,61100.00
+247,"Messner Shopping Network",Messner,"Renate ",069-055-5984,"Magazinweg 7",Unknown,Frankfurt,Unknown,60528,Germany,NULL,0.00
+249,"Amica Models & Co.",Accorti,"Paolo ",011-498-8555,"Via Monte Bianco 34",Unknown,Torino,Unknown,10100,Italy,1401,113000.00
+250,"Lyon Souveniers","Da Silva",Daniel,331-466-27555,"27 rue du Colonel Pierre Avia",Unknown,Paris,Unknown,75508,France,1337,68100.00
+256,"Auto Associés & Cie.",Tonini,"Daniel ",030-598-8555,"67, avenue de l'Europe",Unknown,Versailles,Unknown,78000,France,1370,77900.00
+259,"Toms Spezialitäten, Ltd",Pfalzheim,"Henriette ",022-155-54327,"Mehrheimerstr. 369",Unknown,Köln,Unknown,50739,Germany,1504,120400.00
+260,"Royal Canadian Collectables, Ltd.",Lincoln,"Elizabeth ",604-555-4555,"23 Tsawassen Blvd.",Unknown,Tsawassen,BC,"T2F 8M4",Canada,1323,89600.00
+273,"Franken Gifts, Co",Franken,"Peter ",089-087-7555,"Berliner Platz 43",Unknown,München,Unknown,80805,Germany,NULL,0.00
+276,"Anna's Decorations, Ltd",O'Hara,Anna,029-936-8555,"201 Miller Street","Level 15","North Sydney",NSW,2060,Australia,1611,107800.00
+278,"Rovelli Gifts",Rovelli,"Giovanni ",035-640-0555,"Via Ludovico il Moro 22",Unknown,Bergamo,Unknown,24100,Italy,1401,119600.00
+282,"Souveniers And Things Co.",Huxley,Adrian,612-949-58555,"Monitor Money Building","815 Pacific Hwy",Chatswood,NSW,2067,Australia,1611,93300.00
+286,"Marta's Replicas Co.",Hernandez,Marta,617-555-8555,"39323 Spinnaker Dr.",Unknown,Cambridge,MA,51247,USA,1216,123700.00
+293,"BG&E Collectables",Harrison,Ed,412-642-55001,"Rte des Arsenaux 41 ",Unknown,Fribourg,Unknown,1700,Switzerland,NULL,0.00
+298,"Vida Sport, Ltd",Holz,Mihael,089-703-4555,"Grenzacherweg 237",Unknown,Genève,Unknown,1203,Switzerland,1702,141300.00
+299,"Norway Gifts By Mail, Co.",Klaeboe,Jan,472-212-1555,"Drammensveien 126A","PB 211 Sentrum",Oslo,Unknown,"N 0106","Norway  ",1504,95100.00
+303,"Schuyler Imports",Schuyler,Bradley,312-049-19555,"Kingsfordweg 151",Unknown,Amsterdam,Unknown,"1043 GR",Netherlands,NULL,0.00
+307,"Der Hund Imports",Andersen,Mel,030-007-4555,"Obere Str. 57",Unknown,Berlin,Unknown,12209,Germany,NULL,0.00
+311,"Oulu Toy Supplies, Inc.",Koskitalo,Pirkko,981-443-3655,"Torikatu 38",Unknown,Oulu,Unknown,90110,Finland,1501,90500.00
+314,"Petit Auto",Dewey,"Catherine ",002-555-5467,"Rue Joseph-Bens 532",Unknown,Bruxelles,Unknown,B-1180,Belgium,1401,79900.00
+319,"Mini Classics",Frick,Steve,914-555-4562,"3758 North Pendale Street",Unknown,"White Plains",NY,24067,USA,1323,102700.00
+320,"Mini Creations Ltd.",Huang,Wing,508-555-9555,"4575 Hillside Dr.",Unknown,"New Bedford",MA,50553,USA,1188,94500.00
+321,"Corporate Gift Ideas Co.",Brown,Julie,650-555-1386,"7734 Strong St.",Unknown,"San Francisco",CA,94217,USA,1165,105000.00
+323,"Down Under Souveniers, Inc",Graham,Mike,649-312-5555,"162-164 Grafton Road","Level 2","Auckland  ",Unknown,NULL,"New Zealand",1612,88000.00
+324,"Stylish Desk Decors, Co.",Brown,"Ann ",171-555-0297,"35 King George",Unknown,London,Unknown,"WX3 6FW",UK,1501,77000.00
+328,"Tekni Collectables Inc.",Brown,William,201-555-9350,"7476 Moss Rd.",Unknown,Newark,NJ,94019,USA,1323,43000.00
+333,"Australian Gift Network, Co",Calaghan,Ben,617-384-46555,"31 Duncan St. West End",Unknown,"South Brisbane",Queensland,4101,Australia,1611,51600.00
+334,"Suominen Souveniers",Suominen,Kalle,358-980-45555,"Software Engineering Center","SEC Oy",Espoo,Unknown,FIN-02271,Finland,1501,98800.00
+335,"Cramer Spezialitäten, Ltd",Cramer,"Philip ",055-509-9555,"Maubelstr. 90",Unknown,Brandenburg,Unknown,14776,Germany,NULL,0.00
+339,"Classic Gift Ideas, Inc",Cervantes,Francisca,215-555-4695,"782 First Street",Unknown,Philadelphia,PA,71270,USA,1188,81100.00
+344,"CAF Imports",Fernandez,Jesus,349-137-28555,"Merchants House","27-30 Merchant's Quay",Madrid,Unknown,28023,Spain,1702,59600.00
+347,"Men 'R' US Retailers, Ltd.",Chandler,Brian,215-555-4369,"6047 Douglas Av.",Unknown,"Los Angeles",CA,91003,USA,1166,57700.00
+348,"Asian Treasures, Inc.",McKenna,"Patricia ",296-755-5,"8 Johnstown Road",Unknown,Cork,"Co. Cork",NULL,Ireland,NULL,0.00
+350,"Marseille Mini Autos",Lebihan,"Laurence ",091-244-4555,"12, rue des Bouchers",Unknown,Marseille,Unknown,13008,France,1337,65000.00
+353,"Reims Collectables",Henriot,"Paul ",026-471-1555,"59 rue de l'Abbaye",Unknown,Reims,Unknown,51100,France,1337,81100.00
+356,"SAR Distributors, Co",Kuger,Armand,272-155-03555,"1250 Pretorius Street",Unknown,Hatfield,Pretoria,0028,"South Africa",NULL,0.00
+357,GiftsForHim.com,MacKinlay,Wales,649-376-3555,"199 Great North Road",Unknown,Auckland,Unknown,NULL,"New Zealand",1612,77700.00
+361,"Kommission Auto",Josephs,Karin,025-155-5259,"Luisenstr. 48",Unknown,Münster,Unknown,44087,Germany,NULL,0.00
+362,Gifts4AllAges.com,Yoshido,Juri,617-555-9555,"8616 Spinnaker Dr.",Unknown,Boston,MA,51003,USA,1216,41900.00
+363,"Online Diecast Creations Co.",Young,Dorothy,603-555-8647,"2304 Long Airport Avenue",Unknown,Nashua,NH,62005,USA,1216,114200.00
+369,"Lisboa Souveniers, Inc",Rodriguez,"Lino ",013-542-2555,"Jardim das rosas n. 32",Unknown,Lisboa,Unknown,1675,Portugal,NULL,0.00
+376,"Precious Collectables",Urs,Braun,045-207-6555,"Hauptstr. 29",Unknown,Bern,Unknown,3012,Switzerland,1702,0.00
+379,"Collectables For Less Inc.",Nelson,Allen,617-555-8555,"7825 Douglas Av.",Unknown,Brickhaven,MA,58339,USA,1188,70700.00
+381,"Royale Belge",Cartrain,"Pascale ",071-236-72555,"Boulevard Tirou, 255",Unknown,Charleroi,Unknown,B-6000,Belgium,1401,23500.00
+382,"Salzburg Collectables",Pipps,"Georg ",065-629-9555,"Geislweg 14",Unknown,Salzburg,Unknown,5020,Austria,1401,71700.00
+385,"Cruz & Sons Co.",Cruz,Arnold,632-555-3587,"15 McCallum Street","NatWest Center #13-03","Makati City",Unknown,"1227 MM",Philippines,1621,81500.00
+386,"L'ordine Souveniers",Moroni,"Maurizio ",052-255-6555,"Strada Provinciale 124",Unknown,"Reggio Emilia",Unknown,42100,Italy,1401,121400.00
+398,"Tokyo Collectables, Ltd",Shimamura,Akiko,813-358-40555,"2-2-8 Roppongi",Unknown,Minato-ku,Tokyo,106-0032,Japan,1621,94400.00
+406,"Auto Canal+ Petit",Perrier,Dominique,147-556-6555,"25, rue Lauriston",Unknown,Paris,Unknown,75016,France,1337,95000.00
+409,"Stuttgart Collectable Exchange",Müller,"Rita ",071-155-5361,"Adenauerallee 900",Unknown,Stuttgart,Unknown,70563,Germany,NULL,0.00
+412,"Extreme Desk Decorations, Ltd",McRoy,Sarah,044-999-9555,"101 Lambton Quay","Level 11",Wellington,Unknown,NULL,"New Zealand",1612,86800.00
+415,"Bavarian Collectables Imports, Co.",Donnermeyer,Michael,498-961-089555,"Hansastr. 15",Unknown,Munich,Unknown,80686,Germany,1504,77000.00
+424,"Classic Legends Inc.",Hernandez,Maria,212-555-8493,"5905 Pompton St.","Suite 750",NYC,NY,10022,USA,1286,67500.00
+443,"Feuer Online Stores, Inc",Feuer,"Alexander ",034-255-5176,"Heerstr. 22",Unknown,Leipzig,Unknown,04179,Germany,NULL,0.00
+447,"Gift Ideas Corp.",Lewis,Dan,203-555-4407,"2440 Pompton St.",Unknown,Glendale,CT,97561,USA,1323,49700.00
+448,"Scandinavian Gift Ideas",Larsson,Martha,069-534-6555,"Åkergatan 24",Unknown,Bräcke,Unknown,"S-844 67",Sweden,1504,116400.00
+450,"The Sharp Gifts Warehouse",Frick,Sue,408-555-3659,"3086 Ingle Ln.",Unknown,"San Jose",CA,94217,USA,1165,77600.00
+452,"Mini Auto Werke",Mendel,"Roland ",076-753-3555,"Kirchgasse 6",Unknown,Graz,Unknown,8010,Austria,1401,45300.00
+455,"Super Scale Inc.",Murphy,Leslie,203-555-9545,"567 North Pendale Street",Unknown,"New Haven",CT,97823,USA,1286,95400.00
+456,"Microscale Inc.",Choi,Yu,212-555-1957,"5290 North Pendale Street","Suite 200",NYC,NY,10022,USA,1286,39800.00
+458,"Corrida Auto Replicas, Ltd",Sommer,"Martín ",915-552-2282,"C/ Araquil, 67",Unknown,Madrid,Unknown,28023,Spain,1702,104600.00
+459,"Warburg Exchange",Ottlieb,"Sven ",024-103-9123,"Walserweg 21",Unknown,Aachen,Unknown,52066,Germany,NULL,0.00
+462,FunGiftIdeas.com,Benitez,Violeta,508-555-2555,"1785 First Street",Unknown,"New Bedford",MA,50553,USA,1216,85800.00
+465,"Anton Designs, Ltd.",Anton,Carmen,349-137-28555,"c/ Gobelas, 19-1 Urb. La Florida",Unknown,Madrid,Unknown,28023,Spain,NULL,0.00
+471,"Australian Collectables, Ltd",Clenahan,Sean,619-384-46555,"7 Allen Street",Unknown,"Glen Waverly",Victoria,3150,Australia,1611,60300.00
+473,"Frau da Collezione",Ricotti,Franco,390-225-15555,"20093 Cologno Monzese","Alessandro Volta 16",Milan,Unknown,NULL,Italy,1401,34800.00
+475,"West Coast Collectables Co.",Thompson,Steve,310-555-3722,"3675 Furth Circle",Unknown,Burbank,CA,94019,USA,1166,55400.00
+477,"Mit Vergnügen & Co.",Moos,"Hanna ",062-108-8555,"Forsterstr. 57",Unknown,Mannheim,Unknown,68306,Germany,NULL,0.00
+480,"Kremlin Collectables, Co.",Semenov,"Alexander ",781-229-30521,"2 Pobedy Square",Unknown,"Saint Petersburg",Unknown,196143,Russia,NULL,0.00
+481,"Raanan Stores, Inc","Altagar,G M",Raanan,972-995-98555,"3 Hagalim Blv.",Unknown,Herzlia,Unknown,47625,Israel,NULL,0.00
+484,"Iberia Gift Imports, Corp.",Roel,"José Pedro ",955-558-8282,"C/ Romero, 33",Unknown,Sevilla,Unknown,41101,Spain,1702,65700.00
+486,"Motor Mint Distributors Inc.",Salazar,Rosa,215-555-9857,"11328 Douglas Av.",Unknown,Philadelphia,PA,71270,USA,1323,72600.00
+487,"Signal Collectibles Ltd.",Taylor,Sue,415-555-4312,"2793 Furth Circle",Unknown,Brisbane,CA,94217,USA,1165,60300.00
+489,"Double Decker Gift Stores, Ltd",Smith,"Thomas ",171-555-7555,"120 Hanover Sq.",Unknown,London,Unknown,"WA1 1DP",UK,1501,43300.00
+495,"Diecast Collectables",Franco,Valarie,617-555-2555,"6251 Ingle Ln.",Unknown,Boston,MA,51003,USA,1188,85100.00
+496,"Kelly's Gift Shop",Snowden,Tony,649-555-5500,"Arenales 1938 3'A'",Unknown,"Auckland  ",Unknown,NULL,"New Zealand",1612,110000.00
